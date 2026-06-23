@@ -1,0 +1,11 @@
+project now has:
+LightGBM
+TF-IDF
+DVC
+MLflow
+DagsHub
+Flask
+Chrome Extension
+MLOps Pipeline
+Model Versioning
+Experiment Tracking
